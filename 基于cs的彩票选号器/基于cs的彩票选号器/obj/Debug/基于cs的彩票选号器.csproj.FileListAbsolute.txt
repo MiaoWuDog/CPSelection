@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2015\Projects\基于cs的彩票选号器\基于cs的彩票选号器\bin\Debug\基于cs的彩票选号器.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\基于cs的彩票选号器\基于cs的彩票选号器\bin\Debug\基于cs的彩票选号器.exe
+c:\users\administrator\documents\visual studio 2015\Projects\基于cs的彩票选号器\基于cs的彩票选号器\bin\Debug\基于cs的彩票选号器.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\基于cs的彩票选号器\基于cs的彩票选号器\bin\Debug\SunnyUI.dll
+c:\users\administrator\documents\visual studio 2015\Projects\基于cs的彩票选号器\基于cs的彩票选号器\bin\Debug\SunnyUI.Common.dll
+c:\users\administrator\documents\visual studio 2015\Projects\基于cs的彩票选号器\基于cs的彩票选号器\obj\Debug\基于cs的彩票选号器.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\基于cs的彩票选号器\基于cs的彩票选号器\obj\Debug\基于cs的彩票选号器.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\基于cs的彩票选号器\基于cs的彩票选号器\obj\Debug\基于cs的彩票选号器.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\基于cs的彩票选号器\基于cs的彩票选号器\obj\Debug\基于cs的彩票选号器.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\基于cs的彩票选号器\基于cs的彩票选号器\obj\Debug\基于cs的彩票选号器.exe
+c:\users\administrator\documents\visual studio 2015\Projects\基于cs的彩票选号器\基于cs的彩票选号器\obj\Debug\基于cs的彩票选号器.pdb
